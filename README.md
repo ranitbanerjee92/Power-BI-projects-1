@@ -28,7 +28,7 @@ Top 5 and bottom 5 products by net sales, profit and units sold.
 ### 3. Period comparison
 Two independent date filters drive side-by-side bars for total sales, profit and quantity sold, so any two windows can be compared.
 
-![Power_BI-projects](Images/03-period-comparison.png
+![Power_BI-projects](Images/03-period-comparison.png)
 
 ### 4. Order-level detail
 A filterable table of every order, with slicers for date, customer, product and promotion.
